@@ -16,6 +16,6 @@ You can also customize it, even tho it doesnt have a saving feature. You can cha
 
 # How to use
 
-Simply open the *PC Manager* File. But first extract it into a folder. 
+Simply open the *PC Manager* File. But first extract it into a folder. AND RUN IT AS A ADMINISTRATOR!!!!!!!!!!
 
 ![image](https://github.com/user-attachments/assets/fecc4fc3-01bd-46a2-add5-a12087704854)
