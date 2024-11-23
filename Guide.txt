@@ -1,0 +1,5 @@
+1. Open the "PC Manager" file.
+
+2. Run it as a administrator.
+
+Done
